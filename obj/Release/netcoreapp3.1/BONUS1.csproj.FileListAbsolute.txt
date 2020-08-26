@@ -1,0 +1,3 @@
+/Users/rokaszilys/Projects/BONUS1/BONUS1/obj/Release/netcoreapp3.1/BONUS1.AssemblyInfoInputs.cache
+/Users/rokaszilys/Projects/BONUS1/BONUS1/obj/Release/netcoreapp3.1/BONUS1.AssemblyInfo.cs
+/Users/rokaszilys/Projects/BONUS1/BONUS1/obj/Release/netcoreapp3.1/BONUS1.csproj.CoreCompileInputs.cache
